@@ -10,8 +10,7 @@
 Linux Socket Programming
 ==================================
 0. [MakeDynamicLibrary]error_handling function is included in liberrorhandle
-: because that function is annoying me a lot.
-
+<br>: because that function is annoying me a lot.
 1. [Chap1]Basic server & client socket - Linux based
 2. 
 3. 
