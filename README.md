@@ -16,6 +16,7 @@ Linux Socket Programming
 <br>[Chap1] practice file functions in linux
 2. 
 3. [Chap3] endian conversion practice
+<br>[Chap3] practicing some functions which reset and assign IP
 4. 
 5. 
 6. 
