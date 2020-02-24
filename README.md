@@ -14,7 +14,7 @@ Linux Socket Programming
 <br>: because that function is annoying me a lot.
 1. [Chap1]Basic server & client socket - Linux based
 <br>[Chap1] practice file functions in linux
-2. 
+2. [Chap2] data transfer feature of tcp socket
 3. [Chap3] endian conversion practice
 <br>[Chap3] practicing some functions which reset and assign IP
 4. 
