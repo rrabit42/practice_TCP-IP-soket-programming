@@ -22,8 +22,9 @@ Linux Socket Programming
 [Chap3] endian conversion practice
 <br>[Chap3] practicing some functions which reset and assign IP
 ### 4. TCP 기반 서버/클라이언트1
-[Chap4] TCP soket - Iterative based echo server & client (problem exist)
+[Chap4] TCP socket - Iterative based echo server & client (problem exist)
 ### 5. TCP 기반 서버/클라이언트2
+[Chap5] TCP socket - Iterative based echo server & client (problem solve)
 ### 6. 
 ### 7. 
 ### 8. 도메인 이름과 인터넷 주소
