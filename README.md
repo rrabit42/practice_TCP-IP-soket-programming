@@ -26,7 +26,8 @@ Linux Socket Programming
 ### 5. TCP 기반 서버/클라이언트2
 [Chap5] TCP socket - Iterative based echo server & client (problem solve)
 ### 6. UDP 기반 서버/클라이언트
-[Chap6] UDP soket - Iterative based echo server & client (BUF_SIZE can be not enough)
+[Chap6] UDP soket - Iterative based echo server & client (BUF_SIZE can be not enough)  
+[Chap6] UDP socket with data boundary
 ### 7. 
 ### 8. 도메인 이름과 인터넷 주소
 [Chap8] DNS and IP- get ip by domain name or get domain info by ip
